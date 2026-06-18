@@ -1,0 +1,22 @@
+Date,Time_Start,Time_End,Road_Arm,Direction,Agent_Type,Count,Notes
+2026-XX-XX,07:30,08:30,Humboldtstrasse_North,Southbound,Car,,Morning peak
+2026-XX-XX,07:30,08:30,Humboldtstrasse_North,Southbound,Cyclist,,Morning peak
+2026-XX-XX,07:30,08:30,Humboldtstrasse_North,Southbound,Pedestrian,,Morning peak
+2026-XX-XX,07:30,08:30,Humboldtstrasse_South,Northbound,Car,,Morning peak
+2026-XX-XX,07:30,08:30,Humboldtstrasse_South,Northbound,Cyclist,,Morning peak
+2026-XX-XX,07:30,08:30,Humboldtstrasse_South,Northbound,Pedestrian,,Morning peak
+2026-XX-XX,07:30,08:30,Cranachstrasse_East,Westbound,Car,,Morning peak
+2026-XX-XX,07:30,08:30,Cranachstrasse_East,Westbound,Cyclist,,Morning peak
+2026-XX-XX,07:30,08:30,Cranachstrasse_East,Westbound,Pedestrian,,Morning peak
+2026-XX-XX,07:30,08:30,Wilhelm_Kulz_Strasse,Entering,Car,,Morning peak
+2026-XX-XX,07:30,08:30,Wilhelm_Kulz_Strasse,Entering,Cyclist,,Morning peak
+2026-XX-XX,07:30,08:30,Wilhelm_Kulz_Strasse,Entering,Pedestrian,,Morning peak
+2026-XX-XX,07:30,08:30,Henssstrasse,Entering,Car,,Morning peak
+2026-XX-XX,07:30,08:30,Henssstrasse,Entering,Cyclist,,Morning peak
+2026-XX-XX,07:30,08:30,Henssstrasse,Entering,Pedestrian,,Morning peak
+2026-XX-XX,12:00,13:00,Humboldtstrasse_North,Southbound,Car,,Midday
+2026-XX-XX,12:00,13:00,Humboldtstrasse_South,Northbound,Car,,Midday
+2026-XX-XX,12:00,13:00,Cranachstrasse_East,Westbound,Car,,Midday
+2026-XX-XX,16:00,17:00,Humboldtstrasse_North,Southbound,Car,,Evening peak
+2026-XX-XX,16:00,17:00,Humboldtstrasse_South,Northbound,Car,,Evening peak
+2026-XX-XX,16:00,17:00,Cranachstrasse_East,Westbound,Car,,Evening peak
