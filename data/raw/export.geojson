@@ -1,0 +1,1216 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-18T12:20:19Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/6235206",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxspeed:conditional": "30 @ (07:00-17:00)",
+        "name": "Humboldtstraße",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "parking:left": "yes",
+        "parking:left:orientation": "parallel",
+        "sidewalk": "both",
+        "sidewalk:left:surface": "asphalt",
+        "sidewalk:right:surface": "paving_stones",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3264163,
+            50.9761082
+          ],
+          [
+            11.3265047,
+            50.9761706
+          ],
+          [
+            11.3266533,
+            50.9762756
+          ],
+          [
+            11.3267224,
+            50.9763373
+          ],
+          [
+            11.3267703,
+            50.9764072
+          ],
+          [
+            11.3268013,
+            50.9764671
+          ],
+          [
+            11.3268521,
+            50.976565
+          ],
+          [
+            11.3270545,
+            50.9769441
+          ]
+        ]
+      },
+      "id": "way/6235206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/15799665",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed:backward": "50",
+        "maxspeed:forward": "30",
+        "name": "Humboldtstraße",
+        "sidewalk": "both",
+        "sidewalk:left:surface": "paving_stones",
+        "sidewalk:right:surface": "grass",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3212633,
+            50.973356
+          ],
+          [
+            11.3216239,
+            50.97358
+          ]
+        ]
+      },
+      "id": "way/15799665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22719942",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Wilhelm-Külz-Straße",
+        "sidewalk": "both",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "wikidata": "Q100545568"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3218912,
+            50.9736206
+          ],
+          [
+            11.321189,
+            50.9725307
+          ],
+          [
+            11.3211773,
+            50.9724867
+          ],
+          [
+            11.3211714,
+            50.972441
+          ],
+          [
+            11.3211787,
+            50.9723983
+          ],
+          [
+            11.3211994,
+            50.9723519
+          ],
+          [
+            11.3212221,
+            50.9723192
+          ],
+          [
+            11.3212556,
+            50.9722726
+          ],
+          [
+            11.3212895,
+            50.9722325
+          ],
+          [
+            11.3213362,
+            50.9721911
+          ],
+          [
+            11.3214019,
+            50.9721404
+          ],
+          [
+            11.3214795,
+            50.9721119
+          ],
+          [
+            11.3224548,
+            50.9718583
+          ],
+          [
+            11.3225508,
+            50.971821
+          ],
+          [
+            11.3226449,
+            50.971758
+          ],
+          [
+            11.3226667,
+            50.9717077
+          ],
+          [
+            11.3226744,
+            50.9716755
+          ],
+          [
+            11.3226741,
+            50.9716328
+          ],
+          [
+            11.322658,
+            50.9715805
+          ],
+          [
+            11.3226088,
+            50.971512
+          ],
+          [
+            11.3224769,
+            50.9713205
+          ],
+          [
+            11.3224183,
+            50.9712625
+          ],
+          [
+            11.3223314,
+            50.971215
+          ],
+          [
+            11.3222177,
+            50.9711912
+          ],
+          [
+            11.3221017,
+            50.9711952
+          ],
+          [
+            11.321983,
+            50.9712211
+          ],
+          [
+            11.3216475,
+            50.9713101
+          ],
+          [
+            11.3205174,
+            50.9716099
+          ],
+          [
+            11.3204282,
+            50.9716305
+          ],
+          [
+            11.3202731,
+            50.9716542
+          ],
+          [
+            11.3201126,
+            50.9716626
+          ],
+          [
+            11.31935,
+            50.9716199
+          ],
+          [
+            11.3192459,
+            50.9716102
+          ],
+          [
+            11.3191444,
+            50.9715946
+          ],
+          [
+            11.3188647,
+            50.971541
+          ],
+          [
+            11.3185804,
+            50.9714722
+          ],
+          [
+            11.318524,
+            50.9714702
+          ],
+          [
+            11.3184335,
+            50.9715005
+          ]
+        ]
+      },
+      "id": "way/22719942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23023835",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Henßstraße",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "parking:left": "lane",
+        "parking:left:orientation": "parallel",
+        "parking:right": "no",
+        "sidewalk": "both",
+        "sidewalk:left:surface": "paving_stones",
+        "sidewalk:right:surface": "asphalt",
+        "smoothness": "good",
+        "source:maxspeed": "DE:zone30",
+        "surface": "asphalt",
+        "wikidata": "Q100546862"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3228813,
+            50.9755824
+          ],
+          [
+            11.322431,
+            50.9748475
+          ],
+          [
+            11.3221889,
+            50.9744485
+          ],
+          [
+            11.3219183,
+            50.9740258
+          ],
+          [
+            11.3218877,
+            50.9739779
+          ],
+          [
+            11.3218359,
+            50.973897
+          ]
+        ]
+      },
+      "id": "way/23023835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23107617",
+        "check_date:smoothness": "2023-04-24",
+        "cycleway:both": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed:backward": "30",
+        "maxspeed:forward": "50",
+        "name": "Humboldtstraße",
+        "sidewalk:left": "yes",
+        "sidewalk:right": "separate",
+        "smoothness": "intermediate",
+        "surface": "sett",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3210543,
+            50.9732177
+          ],
+          [
+            11.3207895,
+            50.9730428
+          ],
+          [
+            11.320251,
+            50.9726941
+          ],
+          [
+            11.3188941,
+            50.971801
+          ],
+          [
+            11.3185002,
+            50.971545
+          ],
+          [
+            11.3184335,
+            50.9715005
+          ]
+        ]
+      },
+      "id": "way/23107617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28746611",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Humboldtstraße",
+        "sidewalk": "both",
+        "sidewalk:left:surface": "asphalt",
+        "sidewalk:right:surface": "paving_stones",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3243405,
+            50.9751413
+          ],
+          [
+            11.3245112,
+            50.9752126
+          ],
+          [
+            11.3246678,
+            50.9752562
+          ],
+          [
+            11.3254896,
+            50.9754945
+          ],
+          [
+            11.3256254,
+            50.9755526
+          ],
+          [
+            11.3259412,
+            50.9757694
+          ],
+          [
+            11.3260768,
+            50.9758611
+          ]
+        ]
+      },
+      "id": "way/28746611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/112681555",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Humboldtstraße",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3222098,
+            50.9739909
+          ],
+          [
+            11.3222925,
+            50.974058
+          ],
+          [
+            11.3226285,
+            50.9743366
+          ],
+          [
+            11.3226683,
+            50.9743688
+          ],
+          [
+            11.3227207,
+            50.9744053
+          ],
+          [
+            11.3228238,
+            50.9744699
+          ],
+          [
+            11.3229469,
+            50.9745301
+          ],
+          [
+            11.3239083,
+            50.9749524
+          ]
+        ]
+      },
+      "id": "way/112681555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/112681559",
+        "foot": "yes",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Humboldtstraße",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3180863,
+            50.9710351
+          ],
+          [
+            11.3180485,
+            50.9709226
+          ],
+          [
+            11.3179578,
+            50.9706528
+          ],
+          [
+            11.3179213,
+            50.9705445
+          ],
+          [
+            11.3178842,
+            50.9704341
+          ],
+          [
+            11.3177579,
+            50.9702991
+          ],
+          [
+            11.3173969,
+            50.9699131
+          ],
+          [
+            11.3171727,
+            50.9696751
+          ],
+          [
+            11.3168845,
+            50.9693703
+          ],
+          [
+            11.3164173,
+            50.9688958
+          ],
+          [
+            11.3163759,
+            50.9688509
+          ],
+          [
+            11.3162979,
+            50.968766
+          ],
+          [
+            11.3162083,
+            50.9686687
+          ],
+          [
+            11.3158112,
+            50.9682385
+          ],
+          [
+            11.3157476,
+            50.968168
+          ],
+          [
+            11.3156642,
+            50.9680802
+          ],
+          [
+            11.3155631,
+            50.9679738
+          ],
+          [
+            11.3154397,
+            50.9678404
+          ],
+          [
+            11.3154103,
+            50.9678092
+          ],
+          [
+            11.3153937,
+            50.9677915
+          ],
+          [
+            11.3153056,
+            50.9676977
+          ],
+          [
+            11.3152108,
+            50.967591
+          ],
+          [
+            11.3151575,
+            50.9675311
+          ],
+          [
+            11.3151177,
+            50.9674896
+          ],
+          [
+            11.3150226,
+            50.9673902
+          ],
+          [
+            11.3146903,
+            50.9670434
+          ]
+        ]
+      },
+      "id": "way/112681559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218453519",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cranachstraße",
+        "parking:both": "no",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "wikidata": "Q100546344"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3217963,
+            50.9738352
+          ],
+          [
+            11.3219625,
+            50.9737932
+          ],
+          [
+            11.3221923,
+            50.9737292
+          ]
+        ]
+      },
+      "id": "way/218453519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/240799839",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Cranachstraße",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "wikidata": "Q100546344"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3161997,
+            50.9753051
+          ],
+          [
+            11.3170567,
+            50.9750777
+          ],
+          [
+            11.3180322,
+            50.9748189
+          ],
+          [
+            11.3194421,
+            50.9744528
+          ],
+          [
+            11.3216856,
+            50.9738643
+          ]
+        ]
+      },
+      "id": "way/240799839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252020916",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:forward": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Humboldtstraße",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left|through;right",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3239083,
+            50.9749524
+          ],
+          [
+            11.3242261,
+            50.9750917
+          ],
+          [
+            11.3243405,
+            50.9751413
+          ]
+        ]
+      },
+      "id": "way/252020916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263221103",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Wilhelm-Külz-Straße",
+        "service": "alley",
+        "surface": "sett",
+        "wikidata": "Q100545568"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3205174,
+            50.9716099
+          ],
+          [
+            11.3208413,
+            50.972108
+          ],
+          [
+            11.3210371,
+            50.9724014
+          ],
+          [
+            11.3211183,
+            50.9725233
+          ],
+          [
+            11.321189,
+            50.9725307
+          ]
+        ]
+      },
+      "id": "way/263221103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/276146500",
+        "capacity:disabled": "1",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Humboldtstraße",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "parking:lane:left:capacity:disabled": "1",
+        "parking:left": "yes",
+        "parking:left:orientation": "parallel",
+        "sidewalk": "both",
+        "sidewalk:left:surface": "asphalt",
+        "sidewalk:right:surface": "paving_stones",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "turn:lanes": "left|right",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3270545,
+            50.9769441
+          ],
+          [
+            11.3271283,
+            50.9770804
+          ],
+          [
+            11.3271698,
+            50.9771554
+          ]
+        ]
+      },
+      "id": "way/276146500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/765200300",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "maxspeed:conditional": "30 @ (07:00-17:00)",
+        "name": "Humboldtstraße",
+        "sidewalk": "both",
+        "sidewalk:left:surface": "asphalt",
+        "sidewalk:right:surface": "paving_stones",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3260768,
+            50.9758611
+          ],
+          [
+            11.3264163,
+            50.9761082
+          ]
+        ]
+      },
+      "id": "way/765200300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165039846",
+        "cycleway:both": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed:backward": "30",
+        "maxspeed:forward": "50",
+        "name": "Humboldtstraße",
+        "sidewalk:left": "yes",
+        "sidewalk:left:surface": "grass",
+        "sidewalk:right": "separate",
+        "sidewalk:right:surface": "paving_stones",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3212633,
+            50.973356
+          ],
+          [
+            11.3210543,
+            50.9732177
+          ]
+        ]
+      },
+      "id": "way/1165039846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165040094",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed:backward": "50",
+        "maxspeed:forward": "30",
+        "name": "Humboldtstraße",
+        "parking:left": "lane",
+        "parking:left:orientation": "parallel",
+        "sidewalk": "left",
+        "sidewalk:left:surface": "paving_stones",
+        "sidewalk:right:surface": "grass",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3216239,
+            50.97358
+          ],
+          [
+            11.3216806,
+            50.9736166
+          ]
+        ]
+      },
+      "id": "way/1165040094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165103697",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Henßstraße",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "parking:both": "no",
+        "sidewalk": "both",
+        "sidewalk:left:surface": "paving_stones",
+        "sidewalk:right:surface": "asphalt",
+        "smoothness": "good",
+        "source:maxspeed": "DE:zone30",
+        "surface": "asphalt",
+        "wikidata": "Q100546862"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3218359,
+            50.973897
+          ],
+          [
+            11.3217963,
+            50.9738352
+          ]
+        ]
+      },
+      "id": "way/1165103697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165103721",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cranachstraße",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "wikidata": "Q100546344"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3221923,
+            50.9737292
+          ],
+          [
+            11.3240941,
+            50.9732239
+          ]
+        ]
+      },
+      "id": "way/1165103721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165103773",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Cranachstraße",
+        "parking:both": "no",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "wikidata": "Q100546344"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3216856,
+            50.9738643
+          ],
+          [
+            11.3217963,
+            50.9738352
+          ]
+        ]
+      },
+      "id": "way/1165103773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165103839",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Henßstraße",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "parking:both": "no",
+        "sidewalk": "both",
+        "sidewalk:left:surface": "paving_stones",
+        "sidewalk:right:surface": "asphalt",
+        "smoothness": "good",
+        "source:maxspeed": "DE:zone30",
+        "source:width": "ARCore",
+        "surface": "asphalt",
+        "width": "6.7",
+        "wikidata": "Q100546862"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.322929,
+            50.9756603
+          ],
+          [
+            11.3228813,
+            50.9755824
+          ]
+        ]
+      },
+      "id": "way/1165103839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165103920",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed:backward": "50",
+        "maxspeed:forward": "30",
+        "name": "Humboldtstraße",
+        "parking:both": "no",
+        "sidewalk": "left",
+        "sidewalk:left:surface": "paving_stones",
+        "sidewalk:right:surface": "grass",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3216806,
+            50.9736166
+          ],
+          [
+            11.3219625,
+            50.9737932
+          ]
+        ]
+      },
+      "id": "way/1165103920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165103922",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Wilhelm-Külz-Straße",
+        "parking:both": "no",
+        "sidewalk": "both",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "wikidata": "Q100545568"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3219625,
+            50.9737932
+          ],
+          [
+            11.3218912,
+            50.9736206
+          ]
+        ]
+      },
+      "id": "way/1165103922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165103987",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Humboldtstraße",
+        "parking:both": "no",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3219625,
+            50.9737932
+          ],
+          [
+            11.3220588,
+            50.9738627
+          ],
+          [
+            11.3221198,
+            50.9739177
+          ],
+          [
+            11.3221661,
+            50.9739568
+          ],
+          [
+            11.3221827,
+            50.9739685
+          ],
+          [
+            11.3222098,
+            50.9739909
+          ]
+        ]
+      },
+      "id": "way/1165103987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1238270336",
+        "foot": "yes",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Humboldtstraße",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "wikidata": "Q100546980"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3184335,
+            50.9715005
+          ],
+          [
+            11.3183279,
+            50.971424
+          ],
+          [
+            11.3182911,
+            50.9713973
+          ],
+          [
+            11.3182558,
+            50.9713669
+          ],
+          [
+            11.3182471,
+            50.9713594
+          ],
+          [
+            11.3182117,
+            50.9713171
+          ],
+          [
+            11.3181731,
+            50.9712656
+          ],
+          [
+            11.3181223,
+            50.9711372
+          ],
+          [
+            11.3180989,
+            50.9710779
+          ],
+          [
+            11.3180863,
+            50.9710351
+          ]
+        ]
+      },
+      "id": "way/1238270336"
+    }
+  ]
+}
